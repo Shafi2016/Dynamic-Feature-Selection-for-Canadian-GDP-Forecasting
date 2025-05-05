@@ -1,5 +1,4 @@
-# Dynamic Feature Selection for Canadian GDP Forecasting:  
-**Machine Learning with Google Trends and Official Data**
+# Dynamic Feature Selection for Canadian GDP Forecasting: Machine Learning with Google Trends and Official Data
 
 **Authors:**  
 Shafiullah Qureshi*  
