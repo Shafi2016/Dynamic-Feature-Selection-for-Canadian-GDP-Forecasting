@@ -64,13 +64,7 @@ Each model is evaluated using three data configurations:
 
 ---
 
-## 🔍 Key Contributions
 
-- Introduces **PDC-SIS**, a dynamic screening method that selects relevant predictors each quarter.
-- Demonstrates the forecasting potential of **Google Trends** as a leading economic indicator.
-- Benchmarks multiple ML models on a real-world macroeconomic forecasting task.
-
----
 
 ## 📜 Citation
 
