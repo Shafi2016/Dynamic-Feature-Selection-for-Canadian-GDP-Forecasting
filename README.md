@@ -12,7 +12,7 @@ Fanny S. Demers‡
 This repository provides replication code and data for the paper:  
 **_Dynamic Feature Selection for Canadian GDP Forecasting: Machine Learning with Google Trends and Official Data_**
 
-The study combines traditional economic indicators with high-frequency Google Trends data using a novel dynamic feature selection approach (PDC-SIS) and machine learning models to enhance the forecasting of quarterly Canadian GDP.
+The study combines traditional economic indicators with high-frequency Google Trends data using a novel dynamic feature selection approach with **PDC-SIS** and machine learning models to enhance the forecasting of monthly Canadian GDP.
 
 ---
 
