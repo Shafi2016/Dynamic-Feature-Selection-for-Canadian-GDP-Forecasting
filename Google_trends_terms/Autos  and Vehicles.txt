@@ -1,0 +1,88 @@
+number	category
+216	Autos & Vehicles
+218	Automotive Industry
+222	Classic Vehicles
+227	Hybrid & Alternative Vehicles
+235	Trucks & SUVs
+296	Vehicle Maintenance
+313	Vehicle Shows
+232	Off-Road Vehicles
+219	Bicycles & Accessories
+220	Boats & Watercraft
+221	Campers & RVs
+223	Commercial Vehicles
+225	Cargo Trucks & Trailers
+226	Custom & Performance Vehicles
+229	Electric & Plug-In Vehicles
+230	Microcars & City Cars
+231	Motorcycles
+233	Personal Aircraft
+234	Scooters & Mopeds
+237	SUVs
+238	Trucks
+239	Vans & Minivans
+240	Vehicle Brands
+242	Acura
+243	Audi
+244	Bentley
+245	BMW
+246	Buick
+247	Cadillac
+248	Chevrolet
+249	Chrysler
+250	Citroen
+251	Dodge
+252	Ferrari
+253	Fiat
+254	Ford
+255	GM-Daewoo
+256	GMC
+257	Honda
+258	Hummer
+259	Hyundai
+260	Isuzu
+261	Jaguar
+262	Jeep
+263	Kia
+264	Lamborghini
+265	Land Rover
+266	Lexus
+267	Lincoln
+268	Maserati
+269	Mazda
+270	Mercedes-Benz
+271	Mercury
+272	Mini
+273	Mitsubishi
+274	Nissan
+276	Infiniti
+277	Peugeot
+278	Pontiac
+279	Porsche
+280	Renault-Samsung
+281	Rolls-Royce
+282	Saab
+283	Saturn
+284	Subaru
+285	Suzuki
+286	Toyota
+288	Scion
+289	Vauxhall-Opel
+290	Volkswagen
+291	Volvo
+292	Vehicle Codes & Driving Laws
+294	Drunk Driving Law
+295	Vehicle Licensing & Registration
+297	Vehicle Parts & Accessories
+299	Auto Exterior
+300	Auto Interior
+301	Car Electronics
+303	Car Audio
+304	Car Video
+305	GPS & Navigation
+306	Engine & Transmission
+307	Vehicle Fuels & Lubricants
+308	Vehicle Wheels & Tires
+309	Vehicle Shopping
+311	Fuel Economy & Gas Prices
+312	Vehicle Specs, Reviews & Comparisons

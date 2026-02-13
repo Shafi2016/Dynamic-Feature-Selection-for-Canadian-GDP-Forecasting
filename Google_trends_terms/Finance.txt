@@ -1,0 +1,23 @@
+number	category	
+724	Finance	7
+726	Accounting & Auditing	278
+728	Accounting & Financial Software	1341
+729	Tax Preparation & Planning	1283
+730	Banking	37
+731	Credit & Lending	279
+733	Auto Financing	468
+734	College Financing	813
+735	Credit Cards	811
+736	Debt Management	812
+737	Home Financing	466
+738	Currencies & Foreign Exchange	814
+739	Financial Planning	903
+740	Grants & Financial Assistance	1282
+742	College Financing	813
+743	Insurance	38
+745	Auto Insurance	467
+746	Health Insurance	249
+747	Home Insurance	465
+748	Investing	107
+750	Commodities & Futures Trading	904
+751	Retirement & Pension	619

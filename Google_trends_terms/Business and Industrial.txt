@@ -1,0 +1,147 @@
+number	category
+355	Business & Industrial
+357	Advertising & Marketing
+359	Marketing Services
+361	Loyalty Cards & Programs
+362	Public Relations
+528	Retail Trade
+363	Search Engine Optimization & Marketing
+364	Telemarketing
+365	Aerospace & Defense
+367	Defense Industry
+368	Space Technology
+369	Agriculture & Forestry
+371	Agricultural Equipment
+372	Aquaculture
+373	Crops & Seed
+374	Food Production
+375	Forestry
+376	Horticulture
+377	Livestock
+378	Automotive Industry
+379	Business Education
+380	Business Finance
+382	Commercial Lending
+383	Investment Banking
+384	Risk Management
+385	Venture Capital
+390	Company Earnings
+391	Mergers & Acquisitions
+393	Financial Markets
+395	Business Operations
+397	Business Plans & Presentations
+398	Human Resources
+400	Compensation & Benefits
+401	Corporate Training
+402	Payroll Services
+403	Recruitment & Staffing
+404	Management
+406	Business Process
+407	Project Management
+409	Project Management Software
+410	Strategic Planning
+411	Supply Chain Management
+412	Business Services
+414	Advertising & Marketing
+416	Marketing Services
+418	Loyalty Cards & Programs
+419	Public Relations
+420	Search Engine Optimization & Marketing
+421	Telemarketing
+422	Consulting
+423	Corporate Events
+425	Trade Shows & Conventions
+426	E-Commerce Services
+428	Merchant Services & Payment Systems
+429	Fire & Security Services
+430	Knowledge Management
+431	Office Services
+433	Office & Facilities Management
+434	Office Supplies
+436	Business Cards & Stationary
+437	Office Furniture
+438	Printers, Copiers & Fax
+440	Copiers
+441	Fax Machines
+442	Ink & Toner
+443	Printers
+444	Scanners
+445	Outsourcing
+446	Photo & Video Services
+448	Stock Photography
+449	Physical Asset Management
+450	Quality Control & Tracking
+451	Signage
+452	Writing & Editing Services
+453	Chemicals Industry
+455	Agrochemicals
+456	Cleaning Agents
+457	Coatings & Adhesives
+458	Dyes & Pigments
+459	Plastics & Polymers
+460	Construction & Maintenance
+462	Building Materials & Supplies
+464	Doors & Windows
+465	HVAC & Climate Control
+466	Nails Screws & Fasteners
+467	Plumbing Fixtures & Equipment
+468	Wood & Plastics
+469	Civil Engineering
+470	Construction Consulting & Contracting
+471	Urban & Regional Planning
+472	Energy & Utilities
+474	Electricity
+475	Nuclear Energy
+476	Oil & Gas
+478	Vehicle Fuels & Lubricants
+479	Renewable & Alternative Energy
+480	Waste Management
+482	Recycling
+483	Water Supply & Treatment
+484	Enterprise Technology
+486	Customer Relationship Management (CRM)
+487	Data Management
+488	E-Commerce Services
+490	Merchant Services & Payment Systems
+491	Enterprise Resource Planning (ERP)
+502	Hospitality Industry
+504	Event Planning
+505	Food Service
+507	Grocery & Food Retailers
+508	Restaurant Supply
+509	Industrial Materials & Equipment
+511	Fluid Handling
+513	Valves Hoses & Fittings
+514	Generators
+515	Heavy Machinery
+516	Manufacturing
+518	Factory Automation
+519	Metals & Mining
+520	Pharmaceuticals & Biotech
+521	Printing & Publishing
+523	Document & Printing Services
+525	Business Cards & Stationary
+526	Journalism & News Industry
+527	Professional & Trade Associations
+530	Retail Equipment & Technology
+531	Small Business
+533	Business Formation
+534	Home Office
+535	MLM & Business Opportunities
+536	Textiles & Nonwovens
+537	Transportation & Logistics
+539	Aviation
+540	Distribution & Logistics
+541	Freight & Trucking
+543	Cargo Trucks & Trailers
+544	Import & Export
+545	Mail & Package Delivery
+547	Couriers & Messengers
+548	Maritime Transport
+549	Moving & Relocation
+550	Packaging
+551	Parking
+553	Airport Parking & Transportation
+554	Public Storage
+555	Rail Transport
+556	Urban Transport

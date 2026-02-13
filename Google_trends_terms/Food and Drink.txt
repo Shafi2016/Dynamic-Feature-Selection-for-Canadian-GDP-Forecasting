@@ -1,0 +1,26 @@
+number	category
+752	Food & Drink
+754	Alcoholic Beverages
+756	Beer
+757	Liquor
+758	Wine
+759	Candy & Sweets
+760	Cooking & Recipes
+762	Baked Goods
+763	Fruits & Vegetables
+764	Meat & Seafood
+765	Soups & Stews
+766	Vegetarian Cuisine
+767	World Cuisines
+769	Asian Cuisine
+770	Latin American Cuisine
+771	Mediterranean Cuisine
+772	North American Cuisine
+773	Culinary Training
+774	Grocery & Food Retailers
+775	Non-Alcoholic Beverages
+777	Coffee & Tea
+778	Restaurants
+780	Dining Guides
+781	Fast Food
+782	Restaurant Supply

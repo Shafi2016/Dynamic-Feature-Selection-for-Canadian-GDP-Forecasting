@@ -1,0 +1,20 @@
+216	Autos & Vehicles
+218	Automotive Industry
+222	Classic Vehicles
+227	Hybrid & Alternative Vehicles
+235	Trucks & SUVs
+296	Vehicle Maintenance
+313	Vehicle Shows
+232	Off-Road Vehicles
+219	Bicycles & Accessories
+220	Boats & Watercraft
+221	Campers & RVs
+223	Commercial Vehicles
+225	Cargo Trucks & Trailers
+226	Custom & Performance Vehicles
+229	Electric & Plug-In Vehicles
+230	Microcars & City Cars
+231	Motorcycles
+233	Personal Aircraft
+234	Scooters & Mopeds
+237	SUVs

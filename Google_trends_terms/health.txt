@@ -1,0 +1,96 @@
+number	category
+831	Health
+833	Aging & Geriatrics
+835	Alzheimer's Disease
+836	Alternative & Natural Medicine
+838	Acupuncture & Chinese Medicine
+839	Cleansing & Detoxification
+840	Health Conditions
+842	AIDS & HIV
+843	Allergies
+844	Arthritis
+845	Cancer
+846	Cold & Flu
+847	Diabetes
+848	Ear Nose & Throat
+849	Eating Disorders
+850	Endocrine Conditions
+852	Diabetes
+853	Thyroid Conditions
+854	Genetic Disorders
+855	GERD & Digestive Disorders
+856	Heart & Hypertension
+857	Infectious Diseases
+859	Cold & Flu
+860	Parasites & Parasitic Diseases
+861	Sexually Transmitted Diseases
+863	AIDS & HIV
+864	Vaccines & Immunizations
+865	Injury
+866	Neurological Disorders
+868	Alzheimer's Disease
+869	Obesity
+870	Pain Management
+872	Headaches & Migraines
+873	Respiratory Conditions
+875	Asthma
+876	Skin Conditions
+877	Sleep Disorders
+878	Health Education & Medical Training
+879	Health Foundations & Medical Research
+880	Health News
+882	Health Policy
+883	Medical Devices & Equipment
+885	Assistive Technology
+887	Mobility Equipment & Accessories
+888	Medical Facilities & Services
+890	Doctors' Offices
+891	Hospitals & Treatment Centers
+892	Medical Procedures
+894	Medical Tests & Exams
+895	Surgery
+897	Cosmetic Surgery
+898	Vaccines & Immunizations
+899	Physical Therapy
+900	Medical Literature & Resources
+902	Medical Photos & Illustration
+903	Men's Health
+905	Erectile Dysfunction
+906	Mental Health
+908	Anxiety & Stress
+909	Depression
+910	Learning & Developmental Disabilities
+912	ADD & ADHD
+913	Nursing
+915	Assisted Living & Long Term Care
+916	Nutrition
+918	Special & Restricted Diets
+920	Cholesterol Issues
+921	Vitamins & Supplements
+922	Oral & Dental Care
+923	Pediatrics
+924	Pharmacy
+926	Drugs & Medications
+927	Public Health
+929	Health Policy
+930	Occupational Health & Safety
+931	Poisons & Overdoses
+932	Vaccines & Immunizations
+933	Reproductive Health
+935	Birth Control
+936	Erectile Dysfunction
+937	Infertility
+938	OBGYN
+940	Pregnancy & Maternity
+941	Sex Education & Counseling
+942	Sexual Enhancement
+943	Sexually Transmitted Diseases
+945	AIDS & HIV
+946	Substance Abuse
+948	Drug & Alcohol Testing
+949	Drug & Alcohol Treatment
+950	Smoking & Smoking Cessation
+951	Steroids & Performance-Enhancing Drugs
+952	Vision Care
+954	Eyeglasses & Contacts
+955	Women's Health

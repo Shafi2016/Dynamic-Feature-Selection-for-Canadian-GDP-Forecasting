@@ -1,0 +1,24 @@
+number	cacategory
+314	Beauty & Fitness
+316	Beauty Pageants
+317	Body Art
+318	Cosmetic Procedures
+320	Cosmetic Surgery
+321	Cosmetology & Beauty Professionals
+322	Face & Body Care
+324	Hygiene & Toiletries
+325	Make-Up & Cosmetics
+326	Perfumes & Fragrances
+327	Skin & Nail Care
+328	Unwanted Body & Facial Hair Removal
+329	Fashion & Style
+331	Fashion Designers & Collections
+332	Fashion Modeling
+333	Fitness
+335	Bodybuilding
+336	Yoga & Pilates
+337	Hair Care
+339	Hair Loss
+340	Spas & Beauty Services
+342	Massage Therapy
+343	Weight Loss
