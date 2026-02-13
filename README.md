@@ -1,18 +1,24 @@
 # Dynamic Feature Selection for Canadian GDP Forecasting
 
-This repository contains research and implementation code for forecasting Canadian GDP using dynamic feature selection techniques, including **PDC-SIS (Partial Distance Correlation - Sure Independence Screening)**.
+This repository contains research and implementation code for forecasting monthly Canadian real GDP growth using machine learning models and dynamic feature selection.
 
-## Project Overview
+## Abstract
 
-The core of this project explores how to dynamically select the most relevant economic indicators (features) from a large pool of potential predictors to improve the accuracy of GDP forecasts. The methodology accounts for changing economic conditions by updating feature selection across different forecast horizons.
+We forecast monthly Canadian real GDP growth using machine learning models trained on 18 official macroeconomic indicators and Google Trends (GT) data. Predictors are selected dynamically in each rolling window using **PDC-SIS (Partial Distance Correlation - Sure Independence Screening)**, with cross-validation-based tuning to support real-time forecasting and avoid data leakage. The evaluation is conducted on latest-available (final-vintage) series and should be interpreted as a pseudo out-of-sample forecasting exercise rather than real-time vintage nowcasting.
 
-## Key Features
+## Key Features & Models
 
-- **PDC-SIS Implementation**: Utilizes Partial Distance Correlation for robust, non-linear feature screening.
-- **Rolling-Window Forecasting**: Implements "Ba Chu Style" rolling window analysis for Out-of-Sample (OoS) performance evaluation.
-- **Multiple Forecast Horizons**: Supports forecasting at various horizons (e.g., $\tau = 1, 3, 6, 9$ months).
-- **Comparison of Models**: Includes evaluations for various regression models like Random Forest, XGBoost, CatBoost, and ARIMA.
-- **Google Trends Integration**: Explores the use of Google Trends data as supplementary predictors for real-time economic activity.
+- **Models Evaluated**: GBM, XGBoost, LightGBM, CatBoost, and Random Forest.
+- **Baseline**: ARIMA model.
+- **Dynamic Feature Selection**: Implementation of PDC-SIS for robust, non-linear feature screening in each rolling window.
+- **Data Sources**: 18 Official macroeconomic indicators combined with Google Trends (GT) data.
+
+## Findings
+
+- **Data Performance**: Official data delivers the strongest performance at short and medium horizons.
+- **Synergy**: Combining Official and GT data yields the clearest improvement at the longest horizon.
+- **LightGBM Robustness**: With GT data alone, LightGBM is the only ML model maintaining positive out-of-sample $R^2$ across all horizons.
+- **Statistical Significance**: Diebold–Mariano tests corroborate these patterns, showing LightGBM's dominance under GT-only predictors.
 
 ## Project Structure
 
@@ -29,9 +35,9 @@ The core of this project explores how to dynamically select the most relevant ec
 The project follows a rigorous rolling-window evaluation framework:
 1. **Subsample Extraction**: Economic data is divided into subsamples.
 2. **Dynamic Feature Selection**: For each window, the most relevant predictors are identified using PDC-SIS.
-3. **Model Training**: Regression models are trained on selected features.
-4. **Out-of-Sample Prediction**: The model predicts the GDP for the next $\tau$ steps.
-5. **Metric Calculation**: Performance is measured using Median RMSE, MAE, and R².
+3. **Model Training & Tuning**: Machine learning models are trained with cross-validation-based tuning.
+4. **Pseudo Out-of-Sample Prediction**: The model predicts the GDP for the next $\tau$ steps.
+5. **Metric Calculation**: Performance is measured using Median RMSE, MAE, and $R^2$, with Diebold–Mariano tests for statistical comparison.
 
 ## Installation
 
