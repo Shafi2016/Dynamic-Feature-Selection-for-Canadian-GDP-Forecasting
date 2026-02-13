@@ -2,16 +2,13 @@
 
 This repository contains research and implementation code for forecasting monthly Canadian real GDP growth using machine learning models and dynamic feature selection.
 
-## Abstract
-
-We forecast monthly Canadian real GDP growth using machine learning models trained on 18 official macroeconomic indicators and Google Trends (GT) data. Predictors are selected dynamically in each rolling window using **PDC-SIS (Partial Distance Correlation - Sure Independence Screening)**, with cross-validation-based tuning to support real-time forecasting and avoid data leakage. The evaluation is conducted on latest-available (final-vintage) series and should be interpreted as a pseudo out-of-sample forecasting exercise rather than real-time vintage nowcasting.
 
 ## Key Features & Models
 
 - **Models Evaluated**: GBM, XGBoost, LightGBM, CatBoost, and Random Forest.
 - **Baseline**: ARIMA model.
 - **Dynamic Feature Selection**: Implementation of PDC-SIS for robust, non-linear feature screening in each rolling window.
-- **Data Sources**: 18 Official macroeconomic indicators combined with Google Trends (GT) data.
+- **Data Sources**: Official macroeconomic indicators combined with Google Trends (GT) data.
 
 ## Findings
 
